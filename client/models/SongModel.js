@@ -11,3 +11,5 @@ var SongModel = Backbone.Model.extend({
   }
 
 });
+
+//added lines 9-11
